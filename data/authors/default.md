@@ -1,16 +1,18 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Prashant Sharma
+avatar: /static/images/prashant.jpeg
+occupation: Python Developer
+company: Zyte
+email: prashantsharma161198@gmail.com
+twitter: https://twitter.com/gutsytechster
+linkedin: https://www.linkedin.com/in/gutsytechster
+github: https://github.com/gutsytechster
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hello fellow!
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Welcome to this corner of the wide network, we know as internet.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a working professional, currently working as a Python Developer at [Zyte](https://www.zyte.com/). I have worked with Python since the start of my career, and won't hesitate to call myself a Pythonista. I have previously worked as as Software Engineer in Backend and have experience working with [Django](https://www.djangoproject.com/)/[DRF](https://www.django-rest-framework.org/).
+
+I am huge follower of Open source ideology and enjoy contributing to open source whenever I can.

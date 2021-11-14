@@ -18,10 +18,11 @@ public/sitemap.xml
 /build
 *.xml
 # rss feed
-/public/feed.xml 
+/public/feed.xml
 
 # misc
 .DS_Store
+.vscode
 
 # debug
 *.log

@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: '@gutsytechster',
   description: 'My home on the internet!',
   language: 'en-us',
-  siteUrl: 'https://gutsy-portfolio-df0b2rcg6-gutsytechster.vercel.app/',
+  siteUrl: 'https://https://gutsy-portfolio.vercel.app',
   siteRepo: 'https://github.com/gutsytechster/gutsy-portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/prashant.jpeg',

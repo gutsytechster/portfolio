@@ -18,10 +18,13 @@ export default function Footer() {
           <div>{` • `}</div>
           <div>{`Copyright © ${new Date().getFullYear()}`}</div>
         </div>
-        <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
+        <div className="text-sm text-gray-500 dark:text-gray-400">
           <Link href="https://github.com/timlrx/tailwind-nextjs-starter-blog">
             Tailwind Nextjs Theme
           </Link>
+        </div>
+        <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
+          <Link href="https://icons8.com">Icon by Icons8</Link>
         </div>
       </div>
     </footer>

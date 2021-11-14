@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Prashant Sharma(@gutsytechster)',
   author: 'Prashant Sharma',
   headerTitle: '@gutsytechster',
-  description: 'Blog portfolio to showcase my work life.',
+  description: 'My home on the internet!',
   language: 'en-us',
   siteUrl: 'https://gutsy-portfolio-df0b2rcg6-gutsytechster.vercel.app/',
   siteRepo: 'https://github.com/gutsytechster/gutsy-portfolio',

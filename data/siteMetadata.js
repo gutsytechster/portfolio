@@ -8,7 +8,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/gutsytechster/gutsy-portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/prashant.jpeg',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/social-banner.png',
   email: 'prashantsharma161198@gmail.com',
   github: 'https://github.com/gutsytechster',
   twitter: 'https://twitter.com/gutsytechster',

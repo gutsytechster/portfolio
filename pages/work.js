@@ -12,14 +12,14 @@ export default function Work() {
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Work
           </h1>
-          <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
+          {/* <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             A POC of my technical skills!
-          </p>
+          </p> */}
         </div>
         <WorkContainer mainTitle="Projects" linkTitle="find here" data={projectsData} />
         <WorkContainer
           mainTitle="FOSS Contributions"
-          linkTitle="show contributions"
+          linkTitle="see contributions"
           data={fossData}
         />
       </div>

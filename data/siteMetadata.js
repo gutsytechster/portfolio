@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Prashant Sharma(@gutsytechster)',
+  title: 'Prashant Sharma',
   author: 'Prashant Sharma',
-  headerTitle: '@gutsytechster',
+  headerTitle: 'gutsytechster',
   description: 'My home on the internet!',
   language: 'en-us',
   siteUrl: 'https://https://gutsy-portfolio.vercel.app',

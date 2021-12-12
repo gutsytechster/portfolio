@@ -12,7 +12,7 @@ export default function Timeline() {
       <div style={{ width: '100%', height: '100%' }} className="py-7">
         <Chrono
           items={timelineData}
-          mode="VERTICAL_ALTERNATING"
+          mode="VERTICAL"
           theme={{
             primary: 'black',
             secondary: 'skyblue',

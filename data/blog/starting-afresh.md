@@ -1,6 +1,6 @@
 ---
 title: Starting afresh with new home
-date: '2021-11-14'
+date: '2021-12-19'
 tags: ['non-technical']
 draft: false
 summary: 'Created my new home over the internet here and learned along the way.'

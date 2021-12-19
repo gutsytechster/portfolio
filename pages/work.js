@@ -16,12 +16,8 @@ export default function Work() {
             A POC of my technical skills!
           </p> */}
         </div>
-        <WorkContainer mainTitle="Projects" linkTitle="find here" data={projectsData} />
-        <WorkContainer
-          mainTitle="FOSS Contributions"
-          linkTitle="see contributions"
-          data={fossData}
-        />
+        <WorkContainer mainTitle="Projects" linkTitle="find more" data={projectsData} />
+        <WorkContainer mainTitle="FOSS Contributions" linkTitle="find more" data={fossData} />
       </div>
     </>
   )
